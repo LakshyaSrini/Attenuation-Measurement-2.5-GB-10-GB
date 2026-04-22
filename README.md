@@ -77,10 +77,14 @@ Using the power budget equation and the parameters below, determine the attenuat
 
 <img width="1600" height="558" alt="WhatsApp Image 2026-04-22 at 11 41 33 AM" src="https://github.com/user-attachments/assets/7a1de671-20af-4798-bc5b-930a85148c4e" />
 
+ <img width="1600" height="1265" alt="WhatsApp Image 2026-04-22 at 11 41 33 AM (2)" src="https://github.com/user-attachments/assets/a1272ea2-b4f1-4d30-8196-8a4f952b822b" />
 
-  <img width="1600" height="1265" alt="WhatsApp Image 2026-04-22 at 11 41 33 AM (2)" src="https://github.com/user-attachments/assets/a1272ea2-b4f1-4d30-8196-8a4f952b822b" />
+ 
 
 <img width="1920" height="1080" alt="Screenshot (298)" src="https://github.com/user-attachments/assets/1c42eaa2-5c4c-4403-baea-dceb5c783030" />
+
+
+
 
 ## Result
 
