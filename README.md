@@ -84,6 +84,11 @@ Using the power budget equation and the parameters below, determine the attenuat
 
 
 
+
+
+
+
+
 <img width="1920" height="1080" alt="Screenshot (298)" src="https://github.com/user-attachments/assets/1c42eaa2-5c4c-4403-baea-dceb5c783030" />
 
 ## Result
