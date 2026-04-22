@@ -66,8 +66,8 @@ Using the power budget equation and the parameters below, determine the attenuat
 
 - # For 2.5 GB
 
-  <img width="1600" height="558" alt="WhatsApp Image 2026-04-22 at 11 41 33 AM" src="https://github.com/user-attachments/assets/9972047f-dc73-4e2d-a576-<img width="1600" height="558" alt="WhatsApp Image 2026-04-22 at 11 41 33 AM" src="https://github.com/user-attachments/assets/45e1689a-b9a1-4d54-ad86-a92c0e6fabb3" />
-7ef468e5de40" />
+ <img width="1600" height="558" alt="WhatsApp Image 2026-04-22 at 11 41 33 AM" src="https://github.com/user-attachments/assets/20dbb66d-b95c-4f39-9d5c-596ceed9b4c2" />
+
 
   <img width="1600" height="1026" alt="WhatsApp Image 2026-04-22 at 11 41 33 AM (1)" src="https://github.com/user-attachments/assets/f28b6a37-8cfe-4cf3-8962-65011e7fc5b1" />
 
