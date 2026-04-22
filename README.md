@@ -5,8 +5,6 @@
 - Calculate the attenuation-limited fiber length based on the power budget equation.  
 - Simulate the resulting system and verify that it meets performance objectives.
 
----
-
 ## Theory
 The **power budget equation** states that the power budget in a transmission system must equal the sum of all power losses plus the power margin.  
 
@@ -19,8 +17,6 @@ In this exercise, all parameters are given except the fiber length, which must b
 The **receiver sensitivity** is defined as the minimum power required to achieve a BER of <img width="54" height="38" alt="image" src="https://github.com/user-attachments/assets/56f53e67-161a-4d53-ba6e-e31a3725ea43" />, corresponding to a Q factor of 6.  
 - Receiver sensitivity depends on the bit rate.  
 - Fiber attenuation depends on the operating wavelength.  
-
----
 
 ## Pre-lab Calculations
 Using the power budget equation and the parameters below, determine the attenuation-limited fiber length:
@@ -35,8 +31,6 @@ Using the power budget equation and the parameters below, determine the attenuat
 - **Additional known losses:** 0 dB  
 - **Power margin:** 6 dB  
 
----
-
 ## Layout
 - The system has been created using **OptiSystem** and exported as an **OptiPerformer** file.  
 - Two versions exist: one for **2.5 Gb/s** and one for **10 Gb/s**.  
@@ -46,8 +40,6 @@ Using the power budget equation and the parameters below, determine the attenuat
 - Dispersion and nonlinear effects in the fiber are disabled.  
 - To set the receiver sensitivity to -30 dBm for 2.5 Gb/s, set the **thermal noise parameter** in the receiver to **8.97e-24 W/Hz**.  
 - Visualizer components are included to obtain necessary simulation data.  
-
----
 
 ## Simulation
 1. Run the simulation and record:
@@ -60,9 +52,6 @@ Using the power budget equation and the parameters below, determine the attenuat
      - Eye diagram  
 
 2. Set the fiber length to **125% of the calculated pre-lab value** and repeat the simulation and data recording.  
-
----
-
 
 - # For 2.5 GB
 
@@ -77,15 +66,11 @@ Using the power budget equation and the parameters below, determine the attenuat
 
 <img width="1600" height="558" alt="WhatsApp Image 2026-04-22 at 11 41 33 AM" src="https://github.com/user-attachments/assets/7a1de671-20af-4798-bc5b-930a85148c4e" />
 
----
 
 <img width="1600" height="1265" alt="WhatsApp Image 2026-04-22 at 11 41 33 AM (2)" src="https://github.com/user-attachments/assets/a1272ea2-b4f1-4d30-8196-8a4f952b822b" />
 
----
 
 <img width="1920" height="1080" alt="Screenshot (298)" src="https://github.com/user-attachments/assets/1c42eaa2-5c4c-4403-baea-dceb5c783030" />
-
----
 
 ## Result
 
