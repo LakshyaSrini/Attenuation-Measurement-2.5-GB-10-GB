@@ -63,22 +63,26 @@ Using the power budget equation and the parameters below, determine the attenuat
 
 ---
 
-## Analysis and Report
-Compare simulation results with pre-lab calculations and record observations.  
 
-Your report should contain:
-- **Cover Page**
-  - Title of the lab  
-  - Course name and number  
-  - Your name  
+- # For 2.5 GB
 
-- **Pre-lab Calculations**  
+  <img width="1600" height="558" alt="WhatsApp Image 2026-04-22 at 11 41 33 AM" src="https://github.com/user-attachments/assets/9972047f-dc73-4e2d-a576-<img width="1600" height="558" alt="WhatsApp Image 2026-04-22 at 11 41 33 AM" src="https://github.com/user-attachments/assets/45e1689a-b9a1-4d54-ad86-a92c0e6fabb3" />
+7ef468e5de40" />
 
-- **Screenshots** of layout and results (including eye diagrams)  
+  <img width="1600" height="1026" alt="WhatsApp Image 2026-04-22 at 11 41 33 AM (1)" src="https://github.com/user-attachments/assets/f28b6a37-8cfe-4cf3-8962-65011e7fc5b1" />
 
-- **Summary Table** for each simulation:
-  | Fiber Length (km) | Received Power (dBm) | Q Factor | BER |
-  |-------------------|-----------------------|----------|-----|
-  
+<img width="1920" height="1080" alt="Screenshot (297)" src="https://github.com/user-attachments/assets/607f2297-afaa-48f5-9ae2-5fa49d55b4bb" />
 
-- **Written Summary** of observations and explanations of differences.  
+# For 10 GB
+
+<img width="1600" height="558" alt="WhatsApp Image 2026-04-22 at 11 41 33 AM" src="https://github.com/user-attachments/assets/7a1de671-20af-4798-bc5b-930a85148c4e" />
+
+
+  <img width="1600" height="1265" alt="WhatsApp Image 2026-04-22 at 11 41 33 AM (2)" src="https://github.com/user-attachments/assets/a1272ea2-b4f1-4d30-8196-8a4f952b822b" />
+
+<img width="1920" height="1080" alt="Screenshot (298)" src="https://github.com/user-attachments/assets/1c42eaa2-5c4c-4403-baea-dceb5c783030" />
+
+## Result
+
+Thus the Experiment was succesfully completed and output is verified.
+
